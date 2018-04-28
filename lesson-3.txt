@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+to make the .git folder with revision history information
+to notify git that this directory is a tracked project
+to submit comits to the repository
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+staging area allowws multiple files to be added in a single commit
+the wd might have many more files than added in 1 commit
