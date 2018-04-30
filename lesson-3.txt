@@ -7,3 +7,20 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 staging area allowws multiple files to be added in a single commit
 the wd might have many more files than added in 1 commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+diff --staging shows the difference between the current commit and the added files
+this can be reviewed before commit
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+different versions
+different side experiments
+distinctly different development directions 
+
+How do the diagrams help you visualize the branch structure?
+diagrams are visual representations of data
+
+What are the pros and cons of Git’s automatic merging 
+vs. always doing merges manually?
+quicker but silent error prone
