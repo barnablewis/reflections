@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 when you want to share work with others or work on multiple machines.
 if you want a cloud based backup
 
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+so that you can check what changes are happening and when. It allowes you to detect bugs more easily
+
